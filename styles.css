@@ -9,6 +9,10 @@ body {
 .header {
   align-items: center;
 }
+
+.heart {
+    align-items:center;
+}
 h1 {
  align-items: center;
 }
